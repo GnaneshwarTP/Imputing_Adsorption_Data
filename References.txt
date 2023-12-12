@@ -1,1 +1,10 @@
+###AiiDA tutorial
 https://aiida.readthedocs.io/projects/aiida-core/en/latest/intro/tutorial.html
+
+### Databases links
+https://pubs.acs.org/doi/full/10.1021/acscentsci.0c00988
+ and 
+https://www.materialscloud.org/discover/curated-cofs
+ and 
+https://archive.materialscloud.org/record/2020.107
+
